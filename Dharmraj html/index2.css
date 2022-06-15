@@ -1,0 +1,11 @@
+.name {
+    width: 200px;
+    height: 100px;
+    margin: 20px;
+    padding: 25px;
+    font: size 10px;
+    font-family: initial;
+    background-color: aquamarine;
+    color: blue;
+    text-align: center;
+}
